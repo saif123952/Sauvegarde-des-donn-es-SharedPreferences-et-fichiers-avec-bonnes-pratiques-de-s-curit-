@@ -14,9 +14,7 @@ Ce projet est une application Android développée en Java illustrant les diffé
 - Chiffrement AES-256 pour les clés et les valeurs.
 - Absence de logs contenant des informations sensibles.
 
-## Démonstration
-![Capture d'écran de l'application](screenshot.png)
-*Note : Remplacez screenshot.png par une capture réelle de votre application.*
+
 
 ## Technologies utilisées
 - Langage : Java
